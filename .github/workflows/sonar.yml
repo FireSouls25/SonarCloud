@@ -18,5 +18,5 @@ job:
       SONAR_TOKEN: ${{secrets.SONAR_TOKEN}}
      with:
       args:
-       - Dsonar.organization = gaboxbox
-       - Dsonar.projectKey=gaboxbox_laboratorio-qa-semana7
+       - Dsonar.organization = FireSouls25
+       - Dsonar.projectKey=FireSouls25_SonarCloud
